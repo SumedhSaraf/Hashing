@@ -4,4 +4,4 @@ It also aims to study their performance once the size of the array is doubled.Fo
     
  ### X-axis represents the load factor
  ### Y-axis represents the the number of input values
- <img src="Images/comparision.png">
+ <img src="Images/Comparision.png">
